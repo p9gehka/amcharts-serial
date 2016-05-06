@@ -1,0 +1,16 @@
+{
+  "name": "amchart-serial",
+  "version": "0.0.1",
+  "main": "dist/serial.js",
+  "keywords": [
+    "amchart"
+  ],
+  "authors": [
+    "p9gehka"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/p9gehka",
+  "dependencies": {
+    "amcharts": "~3.15.2"
+  }
+}
